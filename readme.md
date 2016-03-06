@@ -8,7 +8,7 @@ string-format-js
 ``` shell
 npm install
 ```
-将ls.bat中路径修改为ls.js
+将ls.bat中路径修改为ls.js所在路径
 
 ### 协议
 MIT

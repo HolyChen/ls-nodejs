@@ -1,2 +1,2 @@
 @echo off
-node "E:\Cmd Software\ls\ls.js" %1
+node "PATH_OF_LS.JS" %1
