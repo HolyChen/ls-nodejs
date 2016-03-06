@@ -1,0 +1,15 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "List files",
+  "main": "ls.js",
+  "dependencies": {
+    "string-format-js": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HolyChen",
+  "license": "ISC"
+}
